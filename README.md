@@ -2,5 +2,5 @@
 ## currently used as a playground for LC
 ### LC solutions so far
 
-- [two sum](https://leetcode.com/problems/two-sum/) #1
-- [the k weakest rows in a matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) #1337
+- [LC1 Two Sum](https://leetcode.com/problems/two-sum/) 
+- [LC1337 The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
