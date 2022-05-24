@@ -4,7 +4,9 @@ This guide is used to refresh old content and to improve my problem solving skil
 
 # My LC solutions so far
 
-[currently doing](leetcodeJava/easy.md)
+- TODO
+    - [easy questions by Pooja0406](leetcodeJava/easy.md)
+    - [medium questions by Pooja0406](leetcodeJava/medium.md)
 
 ## Solutions for easy questions
 
