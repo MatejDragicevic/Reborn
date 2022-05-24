@@ -4,6 +4,8 @@ This guide is used to refresh old content and to improve my problem solving skil
 
 # My LC solutions so far
 
+[currently doing](leetcodeJava/easy.md)
+
 ## Solutions for easy questions
 
 Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?difficulty=EASY)
