@@ -13,4 +13,7 @@ public class NumberOfOneBits {
         }
         return count;
     }
+    public int hammingWeightOneLine(int n) {
+        return Integer.bitCount(n);
+    }
 }
