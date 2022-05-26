@@ -1,10 +1,11 @@
 import java.util.Arrays;
 
+
 class TwoSum {
 
     // time O(n*n)
     // space O(1)
-    public int[] twoSumBruteForce(int[] nums, int target) {
+    public static int[] twoSumBruteForce(int[] nums, int target) {
 
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
@@ -19,7 +20,7 @@ class TwoSum {
 
     // time O(n)
     // space O(n)
-    public int[] twoSumTwoPassHashTable(int[] nums, int target) {
+    public static int[] twoSumTwoPassHashTable(int[] nums, int target) {
 
         Map<Integer, Integer> mapNums = new HashMap<>();
 
@@ -39,7 +40,7 @@ class TwoSum {
 
     // time O(n)
     // space O(n)
-    public int[] twoSumOnePassHashTable(int[] nums, int target) {
+    public static int[] twoSumOnePassHashTable(int[] nums, int target) {
 
         Map<Integer, Integer> mapNums = new HashMap<>();
 
