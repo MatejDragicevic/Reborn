@@ -34,6 +34,7 @@ Checkout all LC hard questions [here](https://leetcode.com/problemset/all/?diffi
 
 - LC suggested notes by the user deepika135 for new users.
 - Check the guide on LC by clicking [here](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
+    - the guide seems to be gone and [here are the topics of it made by @deepika135](leetcodeJava/important_links.md)
 - Big thanks to all the contributors from LC for creating this great guide!
 
     <details>
