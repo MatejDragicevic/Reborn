@@ -21,8 +21,9 @@ Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?diffi
 ## Solutions for medium questions
 
 Checkout all LC medium questions [here](https://leetcode.com/problemset/all/?difficulty=MEDIUM)
-- [LC2284 Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
+- [LC29 Maximum Product of Word Lengths](https://leetcode.com/problems/divide-two-integers/)
 - [LC318 Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+- [LC2284 Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
 
 ## Solutions for hard questions
 

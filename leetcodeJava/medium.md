@@ -7,7 +7,7 @@
     - [LC17 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
     - [LC22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
     - [LC24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
-    - [LC29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+    - [LC29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) done
     - [LC31 Next Permutation](https://leetcode.com/problems/next-permutation/)
     - [LC33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
     - [LC46 Permutations](https://leetcode.com/problems/permutations/)
