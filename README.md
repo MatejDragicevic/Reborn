@@ -23,6 +23,7 @@ Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?diffi
 Checkout all LC medium questions [here](https://leetcode.com/problemset/all/?difficulty=MEDIUM)
 - [LC29 Maximum Product of Word Lengths](https://leetcode.com/problems/divide-two-integers/)
 - [LC318 Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+- [LC1461 Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 - [LC2284 Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
 
 ## Solutions for hard questions
