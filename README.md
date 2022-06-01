@@ -18,6 +18,7 @@ Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?diffi
 - [LC268 Missing Number](https://leetcode.com/problems/missing-number/)
     - [solution](leetcodeJava/LC268/MissingNumber.java) -- [explaination](leetcodeJava/LC268/LC268MissingNumber.md)
 - [LC1337 The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+    - [solution](leetcodeJava/LC1337/KWeakestRows.java) -- [explaination](leetcodeJava/LC1337/LC1337KWeakestRows.md)
 - [LC1342 Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [LC1480 Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [LC2283 Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
