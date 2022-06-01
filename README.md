@@ -16,6 +16,7 @@ Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?diffi
 - [LC268 Missing Number](https://leetcode.com/problems/missing-number/)
 - [LC1337 The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - [LC1342 Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [LC1480 Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [LC2287 Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)
 
 ## Solutions for medium questions
