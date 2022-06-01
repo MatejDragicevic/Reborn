@@ -8,23 +8,25 @@ This guide is used to refresh old content and to improve my problem solving skil
     - [easy questions by Pooja0406](leetcodeJava/easy.md)
     - [medium questions by Pooja0406](leetcodeJava/medium.md)
 
-## Solutions for easy questions
+## Solutions for easy questions (7)
 
 Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?difficulty=EASY)
-- [LC1 Two Sum](https://leetcode.com/problems/number-of-1-bits/)
-- [LC191 Number of 1 Bits](https://leetcode.com/problems/two-sum/)
+- [LC1 Two Sum](https://leetcode.com/problems/two-sum/)
+    - [solution](leetcodeJava/LC1/TwoSum.java) -- [explaination](leetcodeJava/LC/TwoSum.md)
+- [LC191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [LC268 Missing Number](https://leetcode.com/problems/missing-number/)
 - [LC1337 The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - [LC1342 Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [LC1480 Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [LC2287 Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)
 
-## Solutions for medium questions
+## Solutions for medium questions (5)
 
 Checkout all LC medium questions [here](https://leetcode.com/problemset/all/?difficulty=MEDIUM)
-- [LC29 Maximum Product of Word Lengths](https://leetcode.com/problems/divide-two-integers/)
+- [LC29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 - [LC318 Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 - [LC1461 Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
+- [LC2283 Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 - [LC2284 Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
 
 ## Solutions for hard questions

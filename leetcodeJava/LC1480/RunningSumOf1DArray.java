@@ -7,6 +7,11 @@ class RunningSumOf1DArray {
             sum[i] = tempSum;
         }
         return sum;
-        
+    }
+    public int[] runningSumInputForOutput(int[] nums) {
+        for(int i = 1; i<nums.length;i++) {
+            nums[i] += nums[i-1];
+        }
+        return nums;
     }
 }
