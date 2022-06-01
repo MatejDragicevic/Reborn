@@ -1,31 +1,45 @@
 # Two sum LC 1
 
 the most popular LC question
+[code](TwoSum.java)
 - [LC1 Two Sum](https://leetcode.com/problems/two-sum/)
-> Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order.
+> Given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`*. You may assume that each input would have ***exactly one solution***, and you may not use the same element twice. You can return the answer in any order.
 
-example 1:
+**Example 1**:
 ```
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
-example 2:
+**Example 2**:
 ```
 Input: nums = [3,2,4], target = 6
 Output: [1,2]
 ```
-example 3:
+**Example 3**:
 ```
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-# solutions
+**Constaints**:
+> 2 <= nums.length <= 10^4
+
+> -10^9 <= nums[i] <= 10^9
+
+> -10^9 <= target <= 10^9
+
+> Only one valid answer exists
+
+---
+
+# Solutions
+
 The problem can be solved by looping through nums and sum up two elements to get the given target. You have to make sure not to hit the same target twice, that is why ```j = i + 1```.
 This also means that the complement has to be equal to ```target - otherElement```.
 That is why we can loop just once(instead of loop in a loop) to reduce time complexity. However, this requires space in form of a hashmap.
 
+---
 ## Brute Force
 
 the worst time complexity with the best space complexity
@@ -46,7 +60,7 @@ public static int[] twoSumBruteForce(int[] nums, int target) {
     return new int[] { 0, 0 };
 }
 ```
-
+---
 ## HashTable passing twice
 
 reduced time complexits compared to brute force, but increases space compexity
@@ -74,7 +88,7 @@ public static int[] twoSumTwoPassHashTable(int[] nums, int target) {
     return new int[] { 0, 0 };
 }
 ```
-
+---
 ## Hashtable passing once
 
 looping just once for filling the map and finding the complement

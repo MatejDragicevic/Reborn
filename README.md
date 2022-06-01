@@ -12,8 +12,9 @@ This guide is used to refresh old content and to improve my problem solving skil
 
 Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?difficulty=EASY)
 - [LC1 Two Sum](https://leetcode.com/problems/two-sum/)
-    - [solution](leetcodeJava/LC1/TwoSum.java) -- [explaination](leetcodeJava/LC/TwoSum.md)
+    - [solution](leetcodeJava/LC1/TwoSum.java) -- [explaination](leetcodeJava/LC1/LC1TwoSum.md)
 - [LC191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+    - [solution](leetcodeJava/LC191/NumberOfOneBits.java) -- [explaination](leetcodeJava/LC191/LC191NumberOfOneBits.md)
 - [LC268 Missing Number](https://leetcode.com/problems/missing-number/)
 - [LC1337 The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - [LC1342 Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
