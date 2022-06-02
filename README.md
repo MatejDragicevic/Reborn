@@ -17,6 +17,8 @@ Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?diffi
     - [solution](leetcodeJava/LC191/NumberOfOneBits.java) -- [explaination](leetcodeJava/LC191/LC191NumberOfOneBits.md)
 - [LC268 Missing Number](https://leetcode.com/problems/missing-number/)
     - [solution](leetcodeJava/LC268/MissingNumber.java) -- [explaination](leetcodeJava/LC268/LC268MissingNumber.md)
+- [LC867 Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+    - [solution](leetcodeJava/LC867/TransposeMatrix.java) -- [explaination](leetcodeJava/LC867/LC867TransposeMatrix.md)
 - [LC1337 The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
     - [solution](leetcodeJava/LC1337/KWeakestRows.java) -- [explaination](leetcodeJava/LC1337/LC1337KWeakestRows.md)
 - [LC1342 Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
