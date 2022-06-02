@@ -4,6 +4,8 @@
 - [LC867 The K Weakest Rows in a Matrix](https://leetcode.com/problems/transpose-matrix/)
 > Given a 2D integer array ``matrix``, return the ***transpose*** of ``matrix``.
 
+![alt text](https://assets.leetcode.com/uploads/2021/02/10/hint_transpose.png)
+
 >The ***transpose*** of a matrix is the matrix flipped over its main diagonal, switching the matrix's row and column indices.
 
 **Example 1**:
