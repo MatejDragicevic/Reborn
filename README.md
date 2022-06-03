@@ -8,7 +8,7 @@ This guide is used to refresh old content and to improve my problem solving skil
     - [easy questions by Pooja0406](leetcodeJava/easy.md)
     - [medium questions by Pooja0406](leetcodeJava/medium.md)
 
-## Solutions for easy questions (8)
+## Solutions for easy questions (9)
 
 Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?difficulty=EASY)
 - [LC1 Two Sum](https://leetcode.com/problems/two-sum/)
@@ -30,6 +30,8 @@ Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?diffi
 
 Checkout all LC medium questions [here](https://leetcode.com/problemset/all/?difficulty=MEDIUM)
 - [LC29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+- [LC304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+    - [solution](leetcodeJava/LC304/ImmutableRangeSumQuery2D.java) -- [explaination](leetcodeJava/LC304/LC304ImmutableRangeSumQuery2D.md)
 - [LC318 Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 - [LC1461 Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 - [LC2284 Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
