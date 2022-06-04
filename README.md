@@ -39,7 +39,8 @@ Checkout all LC medium questions [here](https://leetcode.com/problemset/all/?dif
 ## Solutions for hard questions
 
 Checkout all LC hard questions [here](https://leetcode.com/problemset/all/?difficulty=HARD)
-- TODO
+- [LC51 N-Queens](https://leetcode.com/problems/n-queens/)
+    - [solution](leetcodeJava/LC51/NQueens.java) -- [explaination](leetcodeJava/LC51/LC51NQueens.md)
 
 <details>
 <summary>LC "Important and Useful links from all over the LeetCode" by deepika135</summary>
