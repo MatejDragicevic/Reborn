@@ -12,7 +12,7 @@ This guide is used to refresh old content and to improve my problem solving skil
 
 Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?difficulty=EASY)
 - [LC1 Two Sum](https://leetcode.com/problems/two-sum/)
-    - [solution](leetcodeJava/LC1/TwoSum.java) -- [explaination](leetcodeJava/LC1/LC1TwoSum.md)
+    - [solution](leetcodeJava/LC0001/TwoSum.java) -- [explaination](leetcodeJava/LC0001/LC1TwoSum.md)
 - [LC191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
     - [solution](leetcodeJava/LC191/NumberOfOneBits.java) -- [explaination](leetcodeJava/LC191/LC191NumberOfOneBits.md)
 - [LC268 Missing Number](https://leetcode.com/problems/missing-number/)
@@ -29,6 +29,8 @@ Checkout all LC easy questions [here](https://leetcode.com/problemset/all/?diffi
 ## Solutions for medium questions (4)
 
 Checkout all LC medium questions [here](https://leetcode.com/problemset/all/?difficulty=MEDIUM)
+- [LC3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+    - [solution](leetcodeJava/LC0003/LongestSubstringNoRepeat.java) -- [explaination](leetcodeJava/LC0003/LC3LongestSubstringNoRepeat.md)
 - [LC29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 - [LC304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
     - [solution](leetcodeJava/LC304/ImmutableRangeSumQuery2D.java) -- [explaination](leetcodeJava/LC304/LC304ImmutableRangeSumQuery2D.md)
