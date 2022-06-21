@@ -1,30 +1,27 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
-        int i = 0;
-        int j = 0;
-        int max = 0;
-        while(j < s.length())
+        int left = 0;
+        int right = 0;
+        Set<Character> notRepeated = new HashSet<Character>();
+        
+        int maxSize = 0;
+        while(right < s.length())
         {
-            map.put(s.charAt(j), map.getOrDefault(s.charAt(j), 0) + 1);
-            if(map.size() == j - i + 1)
+            char endChar = s.charAt(right);
+            boolean notPresent = notRepeated.add(endChar);
+            if(notPresent)
             {
-                max = Math.max(max, j - i + 1);
+                maxSize = Math.max(maxSize, right - left + 1);
             }
-            else if(map.size() < j - i + 1)
+            else
             {
-                while(map.size() < j - i + 1)
+                while(s.charAt(left++) != endChar)
                 {
-                    map.put(s.charAt(i), map.get(s.charAt(i)) - 1);
-                    if(map.get(s.charAt(i)) == 0)
-                    {
-                        map.remove(s.charAt(i));
-                    }
-                    i++;
+                    notRepeated.remove(s.charAt(left-1));
                 }
             }
-            j++;
+            right++;
         }
-        return max;
+        return maxSize;
     }
 }
