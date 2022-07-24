@@ -7,6 +7,8 @@ currently under construction
 ## Doing
 [Layers](https://leetcode.com/explore/learn/card/the-leetcode-beginners-guide/679/sql-syntax/4358/)
 
+![picture](../imgs/ExploreCardTrack.png)
+
 ## Will be done
 - Array
 - String
