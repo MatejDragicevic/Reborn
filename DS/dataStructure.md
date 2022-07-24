@@ -5,6 +5,7 @@ currently under construction
 ## Done
 
 ## Doing
+[Layers](https://leetcode.com/explore/learn/card/the-leetcode-beginners-guide/679/sql-syntax/4358/)
 
 ## Will be done
 - Array
