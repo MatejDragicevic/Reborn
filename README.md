@@ -12,6 +12,10 @@ The solutions are found in the leetcodeJava directory.
 Instead I concentrated on making it a study ground for [datastructure](/DS/dataStructure.md).
 In the near future I will dive a bit more into [Algorithms](/algorithms/algorithms.md)
 
+# todo
+
+[dedicated file](TODO.md)
+
 ## LeetCode Progress
 - checkout my currenty progress at [MatejDragicevic](https://leetcode.com/MatejDragicevic/)
 - started at 20.05.2022 with my first problem
