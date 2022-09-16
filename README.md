@@ -17,7 +17,6 @@ In the near future I will dive a bit more into [Algorithms](/algorithms/algorith
 [dedicated file](TODO.md)
 
 ## LeetCode Progress
-- checkout my currenty progress at [MatejDragicevic](https://leetcode.com/MatejDragicevic/)
 - started at 20.05.2022 with my first problem
 - 50 problems solved at 19.06.2022 (30 days 50 problems)
 - 100 problems solved at 26.06.2022 (7 days 50 problems)
