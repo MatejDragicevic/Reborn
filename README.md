@@ -19,8 +19,9 @@ In the near future I will dive a bit more into [Algorithms](/algorithms/algorith
 ## LeetCode Progress
 - checkout my currenty progress at [MatejDragicevic](https://leetcode.com/MatejDragicevic/)
 - started at 20.05.2022 with my first problem
-- 50 problems solved at 19.06.2022 (30 days for 50 problems)
-- 100 problems solved at 26.06.2022 (7 days for 50 problems)
-- 150 problems solved at 01.07.2022 (5 days for 50 problems)
-- 200 problems solved at 09.07.2022 (8 days for 50 problems)
+- 50 problems solved at 19.06.2022 (30 days 50 problems)
+- 100 problems solved at 26.06.2022 (7 days 50 problems)
+- 150 problems solved at 01.07.2022 (5 days 50 problems)
+- 200 problems solved at 09.07.2022 (8 days 50 problems)
 - Premium from 13.07.2022
+- 250 problems solved at 24.08.2022 (47 days 50 problems) <- time off
